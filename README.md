@@ -2,6 +2,7 @@
 The C implementation of Labeled-LDA with collapsed gibbs sampling estimation. 
 
 Original file:15.11.30 HIGASHI Koichi https://github.com/khigashi1987/Labeled-LDA
+
 For python library:16.1.4 Shinya SUZUKI
 
 This program makes llda.so to use in python with ctypes.
